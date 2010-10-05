@@ -1,0 +1,4 @@
+A while back I wrote about How to combine Elastic Mapreduce/Hadoop with other Amazon Web Services. This script - deploy.py - is a small update to that, showing how to deploy extra packages with Boto for Python. Note that Boto can deploy mappers and reducers in written any language supported that you can install on Elastic Mapreduce nodes. 
+
+Complete blog post:
+http://atbrox.com/2010/10/01/programmatic-deployment-to-elastic-mapreduce-with-boto-and-bootstrap-action/
